@@ -22,4 +22,4 @@ Feel free to explore my repositories for more details!
 
 You can reach out to me via the following methods:
 - Email: [samuele.bordini@phd.unipi.it](mailto:samuele.bordini@phd.unipi.it)
-- LinkedIn: [Yuri De Santis](https://www.linkedin.com/in/samuele-bordini-8a40221b1/)
+- LinkedIn: [Samuele Bordini](https://www.linkedin.com/in/samuele-bordini-8a40221b1/)
